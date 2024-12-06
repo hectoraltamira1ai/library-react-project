@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Library - React/src/assets"
+		},
+		{
+			"path": "../../Library - React/src/components"
+		},
+		{
+			"path": "../../Library - React/src/pages"
+		}
+	],
+	"settings": {}
+}
